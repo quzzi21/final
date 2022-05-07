@@ -228,3 +228,45 @@ padding-top: 50px;
 .video_naww{
     margin: 0px;
 }
+.namee{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+
+}
+.dispali_provi{
+    display: flex;
+
+    flex-direction: row;
+    box-sizing: border-box;
+}
+.name{
+    padding-bottom: 8px;
+}
+.header_ban{
+    align-items: center;
+    text-align: center;
+
+}
+.display_prof{
+    display: flex;
+}
+.ohic{
+    padding-left: 25px;
+}
+.fren_img{
+    padding-top: 20px;
+    background: #E8E0D8;
+border-radius: 6px;
+}
+.pipl{
+    text-align: center;
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+.strelka{
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right: 20px;
+    padding-top: 20px;
+}
