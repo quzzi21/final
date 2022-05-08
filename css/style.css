@@ -256,8 +256,9 @@ padding-top: 50px;
 }
 .fren_img{
     padding-top: 20px;
-    background: #E8E0D8;
-border-radius: 6px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
 }
 .pipl{
     text-align: center;
@@ -269,4 +270,24 @@ border-radius: 6px;
     flex-direction: row-reverse;
     padding-right: 20px;
     padding-top: 20px;
+}
+.frensd{
+
+background: #E8E0D8;
+border-radius: 12px;
+box-sizing: border-box;
+align-items: center;
+text-align: center;
+}
+.fren_name{
+    background: white;
+    font-size: 28px;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+
+}
+.Z{
+    align-items: center;
+    text-align: center;
 }
